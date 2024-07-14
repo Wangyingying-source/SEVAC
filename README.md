@@ -1,13 +1,23 @@
 # SEVAC
 
 "Dependencies"
+
+
 GPG-RT needs those dependencies:
-Python 3.9+
+
+Python 3.7+
+
 NumPy
+
 SciPy
+
 Pandas
+
 Benchmark needs additional dependencies:
+
+
 NetworkX
+
 gurobipy (a license might be needed)
 
 "code file"
