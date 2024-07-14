@@ -3,7 +3,7 @@
 **"Dependencies"**
 
 
-GPG-RT needs those dependencies:
+SEVAC needs those dependencies:
 
 Python 3.7+
 
