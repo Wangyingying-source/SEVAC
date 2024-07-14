@@ -1,6 +1,6 @@
 # SEVAC
 
-"Dependencies"
+#"Dependencies"
 
 
 GPG-RT needs those dependencies:
