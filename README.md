@@ -22,11 +22,17 @@ gurobipy (a license might be needed)
 
 **"code file"**
 
-SEVAC  A SEVAC solution based on Reinforcement Learning within the uncertain topological network we proposed
+SEVAC
 
-benchmark-SOTA   five benchmark algorithms OSMIP，DOT，FMA，PQL，DDRL
+A SEVAC solution based on Reinforcement Learning within the uncertain topological network we proposed
 
-benchmark-CTP    three benchmark algorithms DDP，π(τ），RAO*
+benchmark-SOTA
+
+five benchmark algorithms OSMIP，DOT，FMA，PQL，DDRL
+
+benchmark-CTP  
+
+three benchmark algorithms DDP，π(τ），RAO*
 
 **"data file"**
 
